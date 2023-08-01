@@ -9,9 +9,7 @@ namespace Languages
     public enum Language
     {
         EN,
-        DE//,
-        //FR,
-        //NL
+        DE
     }
 
     /// <summary>
